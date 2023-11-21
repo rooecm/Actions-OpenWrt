@@ -25,7 +25,7 @@ env:
   REPO_TAG: v23.05.1
   TAG_PREFIX: immortalwrt-v23.05.1-HiWiFi-HC5962-custom
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: .config
+  CONFIG_FILE: HiWiFi-HC5962.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: true
