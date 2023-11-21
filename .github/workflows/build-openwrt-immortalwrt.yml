@@ -22,8 +22,8 @@ on:
 
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
-  REPO_TAG: v21.02.7
-  TAG_PREFIX: immortalwrt-v21.02.7-x86-64-customUa-openclash
+  REPO_TAG: v23.05.1
+  TAG_PREFIX: immortalwrt-v23.05.1-HiWiFi-HC5962-custom
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
