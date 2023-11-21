@@ -9,7 +9,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build Main x86-64 ImmortalWrt - Stable
+name: Build ImmortalWrt
 
 on:
   repository_dispatch:
